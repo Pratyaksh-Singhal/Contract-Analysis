@@ -17,8 +17,8 @@ A RAG-based system that lets you upload legal contracts and ask questions about 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Pratyaksh-Singhal/Contract-Analysis
-cd contract-analyser
+git clone https://github.com/Pratyaksh-Singhal/Contract-Analyser
+cd Contract-Analyser
 ```
 ### 2. Create and activate Virtual Environment 
 
