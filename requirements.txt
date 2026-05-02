@@ -1,0 +1,9 @@
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+pypdf>=4.0.0
+python-docx>=1.1.0
+requests>=2.31.0
+google-genai
+fastapi>=0.111.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9
