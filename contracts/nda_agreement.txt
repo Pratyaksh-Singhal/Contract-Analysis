@@ -1,0 +1,115 @@
+NON-DISCLOSURE AGREEMENT (NDA)
+
+This Non-Disclosure Agreement ("Agreement") is made and entered into as of March 10, 2024, between:
+
+Disclosing Party: FinEdge Technologies Ltd., registered at 801, Powai Plaza, Mumbai, Maharashtra - 400076 ("FinEdge")
+
+Receiving Party: DataBridge Analytics LLP, registered at 22, Whitefield Main Road, Bengaluru, Karnataka - 560066 ("DataBridge")
+
+Collectively referred to as the "Parties."
+
+---
+
+BACKGROUND
+
+FinEdge and DataBridge are exploring a potential business collaboration involving data analytics services for FinEdge's retail banking platform. In connection with this collaboration, FinEdge may disclose certain confidential and proprietary information to DataBridge. This Agreement sets out the terms under which such information shall be disclosed and protected.
+
+---
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+
+1.1 "Confidential Information" means any and all information disclosed by FinEdge to DataBridge, either directly or indirectly, in writing, orally, or by inspection of tangible objects, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure.
+
+1.2 Confidential Information includes but is not limited to:
+   - Customer data, transaction records, and banking algorithms
+   - Proprietary software code, APIs, and system architecture
+   - Business strategies, financial projections, and pricing models
+   - Marketing plans and client lists
+   - Technical documentation and product roadmaps
+
+1.3 Confidential Information does NOT include information that:
+   a) Is or becomes publicly known through no breach of this Agreement
+   b) Was rightfully known to DataBridge before disclosure
+   c) Is independently developed by DataBridge without use of Confidential Information
+   d) Is required to be disclosed by law or court order, provided DataBridge gives FinEdge prompt written notice
+
+---
+
+2. OBLIGATIONS OF RECEIVING PARTY
+
+2.1 DataBridge agrees to:
+   a) Hold all Confidential Information in strict confidence
+   b) Not disclose Confidential Information to any third party without prior written consent from FinEdge
+   c) Use Confidential Information solely for the purpose of evaluating and executing the business collaboration
+   d) Limit access to Confidential Information to employees and contractors who have a need to know and who are bound by written confidentiality obligations no less restrictive than this Agreement
+   e) Notify FinEdge immediately upon discovery of any unauthorised use or disclosure of Confidential Information
+
+2.2 DataBridge shall use at least the same degree of care to protect FinEdge's Confidential Information as it uses to protect its own confidential information, but in no event less than reasonable care.
+
+---
+
+3. TERM
+
+3.1 This Agreement shall be effective from March 10, 2024.
+
+3.2 The confidentiality obligations under this Agreement shall remain in force for a period of 3 years from the date of disclosure of each piece of Confidential Information.
+
+3.3 Either party may terminate this Agreement upon 30 days written notice. Termination does not affect the obligations with respect to Confidential Information already disclosed.
+
+---
+
+4. RETURN OR DESTRUCTION OF INFORMATION
+
+4.1 Upon written request by FinEdge, or upon termination of this Agreement, DataBridge shall promptly:
+   a) Return all tangible materials containing Confidential Information to FinEdge, or
+   b) Certify in writing that all such materials have been permanently destroyed
+
+4.2 DataBridge may retain one archival copy of Confidential Information solely for legal compliance purposes.
+
+---
+
+5. NO LICENCE
+
+5.1 Nothing in this Agreement grants DataBridge any rights or licence in or to the Confidential Information beyond what is expressly stated herein.
+
+5.2 All Confidential Information remains the exclusive property of FinEdge.
+
+---
+
+6. REMEDIES
+
+6.1 DataBridge acknowledges that any breach of this Agreement may cause irreparable harm to FinEdge for which monetary damages would be inadequate.
+
+6.2 In the event of a breach or threatened breach, FinEdge shall be entitled to seek injunctive relief and any other remedy available at law or in equity, without the requirement to post a bond.
+
+6.3 The prevailing party in any dispute under this Agreement shall be entitled to recover reasonable legal fees and costs.
+
+---
+
+7. PENALTY FOR BREACH
+
+7.1 In addition to injunctive relief, any breach of this Agreement by DataBridge shall make DataBridge liable for liquidated damages of INR 50,00,000 (Fifty Lakhs) per incident of unauthorised disclosure, which the parties agree is a reasonable estimate of harm.
+
+---
+
+8. GOVERNING LAW
+
+8.1 This Agreement shall be governed by the laws of India.
+
+8.2 The courts of Mumbai, Maharashtra shall have exclusive jurisdiction over any disputes arising out of this Agreement.
+
+---
+
+9. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the Parties with respect to the subject matter herein and supersedes all prior oral or written agreements.
+
+---
+
+Signed by:
+
+________________________                    ________________________
+Rohan Kapoor                                Sneha Iyer
+Chief Executive Officer                     Managing Partner
+FinEdge Technologies Ltd.                   DataBridge Analytics LLP
+Date: March 10, 2024                        Date: March 10, 2024

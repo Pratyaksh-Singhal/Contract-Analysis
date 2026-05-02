@@ -1,0 +1,141 @@
+SOFTWARE DEVELOPMENT SERVICE AGREEMENT
+
+This Software Development Service Agreement ("Agreement") is entered into as of February 20, 2024, between:
+
+Client: RetailMax India Pvt. Ltd., having its principal place of business at 5th Floor, DLF Cyber Hub, Gurugram, Haryana - 122002 ("Client")
+
+Service Provider: CodeCraft Studios LLP, having its principal place of business at 14, Koramangala 4th Block, Bengaluru, Karnataka - 560034 ("Provider")
+
+---
+
+1. SCOPE OF SERVICES
+
+1.1 The Provider agrees to design, develop, test, and deliver a custom e-commerce mobile application ("the Product") for the Client as described in Schedule A attached to this Agreement.
+
+1.2 The key deliverables include:
+   - iOS and Android mobile applications
+   - Backend REST API with cloud hosting on AWS
+   - Admin dashboard for inventory and order management
+   - Integration with Razorpay payment gateway
+   - Integration with Shiprocket logistics API
+
+1.3 Any additional features or changes outside the original scope shall require a written Change Request signed by both parties and may result in additional charges.
+
+---
+
+2. PROJECT TIMELINE
+
+2.1 The project shall commence on March 1, 2024.
+
+2.2 The expected completion date is August 31, 2024, subject to timely provision of requirements and feedback by the Client.
+
+2.3 Key milestones:
+   - Milestone 1: UI/UX Design Approval — March 31, 2024
+   - Milestone 2: Backend API Development Complete — May 15, 2024
+   - Milestone 3: Mobile App Beta Release — July 15, 2024
+   - Milestone 4: Final Delivery and Go-Live — August 31, 2024
+
+2.4 Delays caused by the Client (including delayed approvals, content submission, or feedback) shall extend the delivery timeline by an equivalent number of days.
+
+---
+
+3. PAYMENT TERMS
+
+3.1 The total contract value is INR 28,00,000 (Twenty-Eight Lakhs) exclusive of applicable GST at 18%.
+
+3.2 Payment schedule:
+   - 30% (INR 8,40,000) upon signing of this Agreement — due by March 5, 2024
+   - 25% (INR 7,00,000) upon completion of Milestone 2 — due within 7 days of approval
+   - 25% (INR 7,00,000) upon completion of Milestone 3 — due within 7 days of approval
+   - 20% (INR 5,60,000) upon final delivery and go-live — due within 7 days of go-live
+
+3.3 All invoices are payable within 7 days of the invoice date via bank transfer to the account details provided by the Provider.
+
+3.4 Late Payment: Payments not received within 7 days of the due date shall attract a late payment charge of 2% per month on the outstanding amount.
+
+3.5 The Provider reserves the right to suspend work if any payment is overdue by more than 14 days, without any liability for resulting delays.
+
+---
+
+4. INTELLECTUAL PROPERTY
+
+4.1 Upon receipt of full payment, all intellectual property rights in the Product — including source code, design assets, and documentation — shall be assigned to and owned by the Client.
+
+4.2 Prior to full payment, the Provider retains all rights in the work product.
+
+4.3 The Provider retains the right to use the project in its portfolio and for marketing purposes, unless the Client requests otherwise in writing.
+
+4.4 The Provider may reuse generic frameworks, libraries, and non-client-specific code components developed during the project in future projects.
+
+---
+
+5. WARRANTIES
+
+5.1 The Provider warrants that:
+   a) The Product will function substantially in accordance with the specifications in Schedule A
+   b) The Product will be free from material defects for a period of 90 days from the date of final delivery ("Warranty Period")
+   c) The work will be performed in a professional and workmanlike manner
+
+5.2 During the Warranty Period, the Provider will fix any bugs or defects reported by the Client at no additional charge, provided the defect is not caused by Client misuse or unauthorised modification.
+
+5.3 Post Warranty Period support and maintenance shall be governed by a separate maintenance agreement.
+
+---
+
+6. CONFIDENTIALITY
+
+6.1 Both parties agree to keep all project-related information, business data, and technical specifications confidential.
+
+6.2 Neither party shall disclose the other's confidential information to any third party without prior written consent.
+
+6.3 This obligation survives termination of this Agreement for 2 years.
+
+---
+
+7. LIMITATION OF LIABILITY
+
+7.1 The Provider's total liability under this Agreement shall not exceed the total fees paid by the Client under this Agreement.
+
+7.2 Neither party shall be liable for indirect, incidental, consequential, or punitive damages.
+
+---
+
+8. TERMINATION
+
+8.1 By Client: The Client may terminate this Agreement by providing 30 days written notice. In such case, the Client shall pay for all work completed up to the termination date, including a termination fee of 15% of the remaining contract value.
+
+8.2 By Provider: The Provider may terminate this Agreement if the Client fails to make payment within 21 days of the due date or materially breaches this Agreement, after giving 14 days written notice to cure the breach.
+
+8.3 Upon termination, the Provider shall deliver all completed work to the Client, and the Client shall pay for all work done.
+
+---
+
+9. DISPUTE RESOLUTION
+
+9.1 Any disputes shall first be escalated to senior management of both parties for resolution within 15 days.
+
+9.2 If unresolved, disputes shall be referred to mediation before a mutually agreed mediator.
+
+9.3 If mediation fails, disputes shall be finally resolved by arbitration under the Arbitration and Conciliation Act, 1996, with the seat of arbitration in Bengaluru, Karnataka.
+
+---
+
+10. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of India.
+
+---
+
+11. FORCE MAJEURE
+
+Neither party shall be liable for delays or failure to perform obligations due to circumstances beyond their reasonable control, including natural disasters, government actions, pandemics, or internet infrastructure failures, provided the affected party gives prompt written notice.
+
+---
+
+Signed by:
+
+________________________                    ________________________
+Vikram Nair                                 Aditya Rao
+Chief Operating Officer                     Founding Partner
+RetailMax India Pvt. Ltd.                   CodeCraft Studios LLP
+Date: February 20, 2024                     Date: February 20, 2024

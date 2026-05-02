@@ -1,0 +1,149 @@
+EMPLOYMENT CONTRACT
+
+This Employment Agreement ("Agreement") is entered into as of January 15, 2024, by and between:
+
+Employer: TechNova Solutions Pvt. Ltd., a company incorporated under the laws of India, having its registered office at 42, Cyber City, Gurugram, Haryana - 122002 ("Company")
+
+Employee: Arjun Mehta, residing at 15B, Green Park Extension, New Delhi - 110016 ("Employee")
+
+---
+
+1. POSITION AND DUTIES
+
+1.1 The Company agrees to employ the Employee as a Senior Software Engineer in the Engineering Department.
+
+1.2 The Employee shall report directly to the Vice President of Engineering.
+
+1.3 The Employee's primary responsibilities include:
+   - Designing and developing scalable backend systems
+   - Conducting code reviews and mentoring junior developers
+   - Collaborating with product and design teams on feature development
+   - Participating in sprint planning and agile ceremonies
+
+1.4 The Employee agrees to devote their full working time and attention to the business of the Company.
+
+---
+
+2. COMMENCEMENT AND DURATION
+
+2.1 This Agreement shall commence on February 1, 2024.
+
+2.2 The employment is on a permanent basis, subject to the termination provisions outlined in Clause 8.
+
+2.3 The first 6 months shall constitute a probationary period, during which either party may terminate the agreement with 15 days written notice.
+
+---
+
+3. COMPENSATION
+
+3.1 Base Salary: The Employee shall receive a gross annual salary of INR 24,00,000 (Twenty-Four Lakhs), payable in equal monthly instalments of INR 2,00,000 on the last working day of each month.
+
+3.2 Performance Bonus: The Employee is eligible for an annual performance bonus of up to 20% of base salary, based on individual and company performance, assessed at the end of each financial year.
+
+3.3 Salary Review: Salaries will be reviewed annually in April. Any revision is at the sole discretion of the Company.
+
+3.4 All payments are subject to applicable tax deductions at source (TDS) as per the Income Tax Act, 1961.
+
+---
+
+4. WORKING HOURS AND LOCATION
+
+4.1 Standard working hours are 9:00 AM to 6:00 PM, Monday through Friday.
+
+4.2 The primary place of work is the Company's Gurugram office. The Employee may be required to work from other locations or travel as business needs demand.
+
+4.3 The Company operates a hybrid work policy — the Employee is required to be present in office at least 3 days per week.
+
+---
+
+5. LEAVE ENTITLEMENTS
+
+5.1 Annual Leave: 18 days of paid annual leave per calendar year, accruing at 1.5 days per month.
+
+5.2 Sick Leave: 10 days of paid sick leave per calendar year.
+
+5.3 Public Holidays: The Employee is entitled to all gazetted public holidays as declared by the Company annually.
+
+5.4 Maternity/Paternity Leave: As per the Maternity Benefit Act, 1961 and Company policy.
+
+5.5 Unused annual leave may be carried forward up to a maximum of 10 days to the next calendar year. Any excess lapses.
+
+---
+
+6. BENEFITS
+
+6.1 Health Insurance: The Company will provide group health insurance coverage of INR 5,00,000 per annum for the Employee and their immediate family (spouse and up to 2 children).
+
+6.2 Provident Fund: The Company will contribute 12% of the Employee's basic salary to the Employee's Provident Fund account as per the Employees' Provident Funds Act, 1952.
+
+6.3 Gratuity: The Employee shall be eligible for gratuity as per the Payment of Gratuity Act, 1972, after completing 5 years of continuous service.
+
+6.4 Laptop and Equipment: The Company will provide a laptop and necessary equipment for work purposes. All equipment remains the property of the Company and must be returned upon separation.
+
+---
+
+7. CONFIDENTIALITY
+
+7.1 The Employee agrees to keep confidential all proprietary information, trade secrets, client data, business strategies, and technical information of the Company during and after employment.
+
+7.2 The Employee shall not disclose any confidential information to any third party without prior written consent of the Company.
+
+7.3 This confidentiality obligation survives the termination of this Agreement for a period of 3 years.
+
+---
+
+8. TERMINATION
+
+8.1 By Employee: The Employee may resign by providing 90 days written notice to the Company.
+
+8.2 By Company (without cause): The Company may terminate this Agreement by providing 90 days written notice or payment of 90 days salary in lieu of notice.
+
+8.3 By Company (with cause): The Company may terminate this Agreement immediately without notice or compensation in cases of:
+   - Gross misconduct or dishonesty
+   - Breach of confidentiality obligations
+   - Conviction of a criminal offence
+   - Wilful neglect of duties
+
+8.4 Upon termination, the Employee must return all Company property, including laptops, access cards, and documents.
+
+---
+
+9. NON-COMPETE AND NON-SOLICITATION
+
+9.1 Non-Compete: For a period of 12 months following termination, the Employee agrees not to be employed by or provide services to any direct competitor of the Company operating in the same product domain within India.
+
+9.2 Non-Solicitation: For a period of 12 months following termination, the Employee shall not solicit or attempt to recruit any current employee of the Company.
+
+---
+
+10. INTELLECTUAL PROPERTY
+
+10.1 All inventions, software, designs, and work products created by the Employee during the course of employment shall be the exclusive property of the Company.
+
+10.2 The Employee agrees to execute any documents necessary to assign such intellectual property rights to the Company.
+
+---
+
+11. GOVERNING LAW AND DISPUTE RESOLUTION
+
+11.1 This Agreement shall be governed by the laws of India.
+
+11.2 Any disputes arising out of this Agreement shall first be attempted to be resolved through mutual negotiation. If unresolved within 30 days, the dispute shall be referred to arbitration under the Arbitration and Conciliation Act, 1996.
+
+11.3 The seat of arbitration shall be New Delhi, India.
+
+---
+
+12. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, or agreements.
+
+---
+
+Signed by:
+
+________________________                    ________________________
+Arjun Mehta (Employee)                      Priya Sharma
+Date: January 15, 2024                      Head of Human Resources
+                                            TechNova Solutions Pvt. Ltd.
+                                            Date: January 15, 2024
